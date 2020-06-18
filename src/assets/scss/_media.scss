@@ -1,0 +1,20 @@
+@media only screen and (max-width: #{$global-breakpoint}) {
+  .heading{
+    font-size: 35px;
+  }
+  .thumb {
+    max-width: 60px;
+  }
+
+  table.row tbody .list__content {
+    padding: 0 !important;
+
+    h6, p {
+      padding: 0 !important;
+    }
+  }
+
+  .arrow-with-circle {
+    max-width: 25px;
+  }
+}

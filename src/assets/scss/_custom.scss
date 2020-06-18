@@ -21,6 +21,10 @@
   }
 }
 
+.logo{
+  width:170px !important;
+}
+
 .right-arrow {
   display: inline;
 }
@@ -28,7 +32,9 @@
 .header-description {
   color: #515759;
 }
-
+.website-link-wrapper{
+  margin-bottom: 0;
+}
 .cta-btn a {
   padding-left: 50px !important;
   padding-right: 50px !important;
@@ -58,7 +64,7 @@
   max-width: 90px;
 }
 
-.arrow {
+.arrow-with-circle {
   max-width: 40px;
 }
 
