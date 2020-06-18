@@ -1,9 +1,9 @@
 @media only screen and (max-width: #{$global-breakpoint}) {
   .heading{
-    font-size: 35px;
+    font-size: 35px !important;
   }
   .thumb {
-    max-width: 60px;
+    max-width: 60px !important;
   }
 
   table.row tbody .list__content {
@@ -15,6 +15,6 @@
   }
 
   .arrow-with-circle {
-    max-width: 25px;
+    max-width: 25px !important;
   }
 }
